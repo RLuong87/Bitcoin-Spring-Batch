@@ -1,4 +1,4 @@
-package bitcoin.spingbatch;
+package bitcoin.spingbatch.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

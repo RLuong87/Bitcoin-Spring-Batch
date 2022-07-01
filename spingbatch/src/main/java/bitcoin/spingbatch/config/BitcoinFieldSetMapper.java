@@ -1,5 +1,6 @@
-package bitcoin.spingbatch;
+package bitcoin.spingbatch.config;
 
+import bitcoin.spingbatch.models.Bitcoin;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.FieldSet;
 import org.springframework.validation.BindException;
